@@ -4,8 +4,7 @@
 
 
 ### Thanks for visiting 👋
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gh08077)](https://solved.ac/gh08077)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gh08077)](https://solved.ac/gh08077)
 <img src="http://mazandi.herokuapp.com/api?handle=gh08077&theme=warm"/>
 
 
