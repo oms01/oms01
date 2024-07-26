@@ -3,7 +3,7 @@
 
 
 
-## 👨‍🎓 *Education*
+## 📚 *Education*
 
 - 가톨릭대학교 컴퓨터정보공학부 학부과정 ( 2020.03 ~ 현재 )
     - 5학기까지 4.13 / 4.50 ( 전공 4.33 / 4.50 )
@@ -23,7 +23,7 @@
 - 2023 가톨릭대학교 프로그래밍 대회 은상 ( 2023.10 )
 
 
-## 📚 *Extracurricular Activities*
+## 👨‍💻 *Extracurricular Activities*
 
 - 가톨릭대학교 UMC 5기 Node.js 파트 ( 2023.09 ~ 2023.02 )
     - Express.js를 이용한 서버 개발 학습
