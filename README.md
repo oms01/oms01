@@ -23,6 +23,7 @@
 ## 👨‍💻 *Extracurricular Activities*
 
 - 가톨릭대학교 알고리즘 동아리 ALCUK 8기 부회장 ( 2023.12 ~ 현재 )
+- GDSC CUK 3기 멤버 ( 2024.09 ~ 현재 )
 - 가톨릭대학교 UMC 5기 Node.js 파트 수료 ( 2023.09 ~ 2024.02 )
 
 
