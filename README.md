@@ -28,7 +28,7 @@
 
 ## ✨*Experiences*
 
-- 알고리즘 연구실 학부연구생 ( 2023.09 ~ 현재 )
+- 알고리즘 연구실 학부연구생 ( 2023.09 ~ ing )
 ---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gh08077)](https://solved.ac/gh08077)
