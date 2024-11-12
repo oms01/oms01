@@ -5,14 +5,16 @@
 
 ## 📚 *Education*
 
-- 가톨릭대학교 컴퓨터정보공학부 학부과정 ( 2020.03 ~ 현재 )
+- 가톨릭대학교 컴퓨터정보공학부 학부과정 ( 2020.03 ~ ing )
 - 삼성전자 DX부문 하계 대학생 S/W 알고리즘 역량 강화 특강 수료 ( 2024.07 ~ 2024.08 )
    - 삼성 S/W 역량테스트 Level B 검정 Pass ( 2024.08.24 )
    
 
-## ✨*Experiences*
+## 👨‍💻 *Extracurricular Activities*
 
-- 알고리즘 연구실 학부연구생 ( 2023.09 ~ 현재 )
+- 가톨릭대학교 알고리즘 동아리 ALCUK 8기 부회장 ( 2023.12 ~ ing )
+- GDSC CUK 3기 멤버 ( 2024.09 ~ ing )
+- 가톨릭대학교 UMC 5기 Node.js 파트 수료 ( 2023.09 ~ 2024.02 )
 
 
 ## 🏆 *Achievements*
@@ -22,13 +24,11 @@
 - 2024 국제 대학생 프로그래밍 대회 (ICPC) Seoul Regional 본선 진출 ( 2024.11 )
 <!-- - 2024 가톨릭대학교 1회 GGUM 해커톤 최우수상 ( 2024.11 ) -->
 
-## 👨‍💻 *Extracurricular Activities*
-
-- 가톨릭대학교 알고리즘 동아리 ALCUK 8기 부회장 ( 2023.12 ~ 현재 )
-- GDSC CUK 3기 멤버 ( 2024.09 ~ 현재 )
-- 가톨릭대학교 UMC 5기 Node.js 파트 수료 ( 2023.09 ~ 2024.02 )
 
 
+## ✨*Experiences*
+
+- 알고리즘 연구실 학부연구생 ( 2023.09 ~ 현재 )
 ---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gh08077)](https://solved.ac/gh08077)
