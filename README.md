@@ -15,7 +15,7 @@
 
 - 가톨릭대학교 알고리즘 소모임 ALCUK 9기 회장 ( 2024.12 ~ ing ) 
 - 가톨릭대학교 알고리즘 소모임 ALCUK 8기 부회장 ( 2023.12 ~ 2024.12 )
-- Google Developers Group on Campus CUK 3기 멤버 ( 2024.09 ~ 2024.12 )
+- Google Developers Group on Campus CUK 3기,4기 멤버 ( 2024.09 ~ ing )
 - 가톨릭대학교 UMC 5기 Node.js 파트 멤버 ( 2023.09 ~ 2024.02 )
 
 <br/>
