@@ -36,7 +36,7 @@
 
 <br/>
 
-###### *상기 이력은 2024년 12월 20일 기준입니다.*
+###### *상기 이력은 2025년 03월 03일 기준입니다.*
 ---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gh08077)](https://solved.ac/gh08077)
