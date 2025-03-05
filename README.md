@@ -1,8 +1,6 @@
 
 # *Thanks for visiting 👋*
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Foms01%2FCatholic-Alarm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## 📚 *Education*
 
 - 가톨릭대학교 컴퓨터정보공학부 학부과정 ( 2020.03 ~ ing )
