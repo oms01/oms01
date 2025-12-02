@@ -11,8 +11,8 @@
 
 ## 👨‍💻 *Extracurricular Activities*
 
-- 가톨릭대학교 알고리즘 소모임 ALCUK ( 2023.06 ~ ing )
-  - 9기 회장 ( 2024.12 ~ ing )
+- 가톨릭대학교 알고리즘 소모임 ALCUK ( 2023.06 ~ 2025.12 )
+  - 9기 회장 ( 2024.12 ~ 2025.12 )
   - 8기 부회장 ( 2023.12 ~ 2024.12 )
   - 교내 ICPC 예선 대회 운영 조교 ( 2023 ~ 2025 )
 - Google Developers Group on Campus CUK 3기, 4기 멤버 ( 2024.09 ~ 2025.06 )
@@ -21,6 +21,7 @@
 
 ## 🏆 *Achievements*
 
+- 2025 컴퓨터정보공학부 학술제: GLUE DAY 대상 ( 2025.11 )
 - 2024 컴퓨터정보공학부 학술제: GGUM HACKATHON 우수상 ( 2024.10 )
 - 2024 가톨릭대학교 프로그래밍 대회 대상 ( 2024.10 )
    - 2024 국제 대학생 프로그래밍 대회 (ICPC) Seoul Regional 본선 진출 ( 2024.11 )
@@ -29,7 +30,7 @@
 
 <br/>
 
-###### *상기 이력은 2025년 10월 17일 기준입니다.*
+###### *상기 이력은 2025년 12월 02일 기준입니다.*
 ---
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gh08077)](https://solved.ac/gh08077)
