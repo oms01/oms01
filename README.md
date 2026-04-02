@@ -1,6 +1,7 @@
 <div align="center">
 
 # *Thanks for visiting 👋*
+<br>
 
 ## 🛠 *Skills*
 
